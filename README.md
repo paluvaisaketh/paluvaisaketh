@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Paluvai Bhargav Saketh!  
 
-<!--
-**paluvaisaketh/paluvaisaketh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about **Data Structures & Algorithms** | **Machine Learning**  
+🌐 Aspiring **Full Stack Web Developer**    
 
-Here are some ideas to get you started:
+📄 **[My Resume](https://drive.google.com/file/d/1Rw0h74JxTQe_uzOgcMiZnscwWUE1dFzx/view?usp=sharing)**
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** [paluvaibhargavsaketh@gmail.com](mailto:paluvaibhargavsaketh@gmail.com)
+
+🔗 **Connect with me:**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/paluvai-bhargav-saketh-75736b21a/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/saketh2003__/)
+
+    
+
+ 
