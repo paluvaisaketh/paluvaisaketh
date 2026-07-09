@@ -3,7 +3,7 @@
 💻 Passionate about **Data Structures & Algorithms** | **Machine Learning**  
 🌐 Aspiring **Full Stack Web Developer**    
 
-📄 **[My Resume](https://drive.google.com/file/d/1Rw0h74JxTQe_uzOgcMiZnscwWUE1dFzx/view?usp=sharing)**
+📄 **[My Resume](https://drive.google.com/file/d/1VXmlXpwCdNtkazPjUIzdmXqyX7N-ZR1e/view?usp=sharing)**
   
 
 📧 **Email:** [paluvaibhargavsaketh@gmail.com](mailto:paluvaibhargavsaketh@gmail.com)
