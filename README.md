@@ -10,5 +10,5 @@
 
 🔗 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/paluvai-bhargav-saketh-75736b21a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/bhargav-saketh-paluvai-75736b21a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVDCkSeg9QFKLlTvhL8lwew%3D%3D)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/saketh2003__/)
